@@ -20,6 +20,7 @@ namespace ShopLearning.Controllers
 
         public ViewResult List()
         {
+            ViewBag.Category = "Some New";
             var cars = _allCars.Cars;
             return View(cars);
         }

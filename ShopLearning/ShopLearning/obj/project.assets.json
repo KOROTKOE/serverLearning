@@ -756,11 +756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roman\\Documents\\учеба\\ShopLearning\\ShopLearning\\ShopLearning.csproj",
+      "projectUniqueName": "C:\\Users\\roman\\Documents\\учеба\\serverLearning\\ShopLearning\\ShopLearning\\ShopLearning.csproj",
       "projectName": "ShopLearning",
-      "projectPath": "C:\\Users\\roman\\Documents\\учеба\\ShopLearning\\ShopLearning\\ShopLearning.csproj",
+      "projectPath": "C:\\Users\\roman\\Documents\\учеба\\serverLearning\\ShopLearning\\ShopLearning\\ShopLearning.csproj",
       "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roman\\Documents\\учеба\\ShopLearning\\ShopLearning\\obj\\",
+      "outputPath": "C:\\Users\\roman\\Documents\\учеба\\serverLearning\\ShopLearning\\ShopLearning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",

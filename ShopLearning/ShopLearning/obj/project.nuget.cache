@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JCC1lq1RAsgdrr2G283DzclKoLbc8XIPK1TJnD46Zs9DzgH3+7Jty4D486nnqeITTv7SoUMHd/RyMWTdptysew==",
+  "dgSpecHash": "bC1/zEDlDQbc7DCJoBCBLN4TudOP6R2owMlYKzkCy5WUkBHY8aF6U086MmhOLfqoCA4hE9P34aAFn6UH5Yy+mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roman\\Documents\\учеба\\ShopLearning\\ShopLearning\\ShopLearning.csproj",
+  "projectFilePath": "C:\\Users\\roman\\Documents\\учеба\\serverLearning\\ShopLearning\\ShopLearning\\ShopLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roman\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.9\\microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
     "C:\\Users\\roman\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.9\\microsoft.aspnet.razor.3.2.9.nupkg.sha512",
