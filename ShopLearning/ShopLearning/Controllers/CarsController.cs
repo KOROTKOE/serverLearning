@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ShopLearning.Data.Interfaces;
+using ShopLearning.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,9 +21,11 @@ namespace ShopLearning.Controllers
 
         public ViewResult List()
         {
-            ViewBag.Category = "Some New";
-            var cars = _allCars.Cars;
-            return View(cars);
+            ViewBag.Title = "Страница с автомобилями";
+            CarsListViewModel obj = new CarsListViewModel();
+            obj.allCars = _allCars.Cars;
+            obj.currentCategory = "Автомобили";
+            return View(obj);
         }
     }
 }
